@@ -58,7 +58,7 @@ const Index = () => {
                   <MenuCard 
                     title="Сахарная булочка" 
                     description="Воздушная булочка с карамельной корочкой"
-                    price="120 ₽"
+                    price="49,99 ₽"
                   />
                 </div>
               </div>
