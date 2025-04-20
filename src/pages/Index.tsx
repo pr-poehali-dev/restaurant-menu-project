@@ -71,7 +71,7 @@ const Index = () => {
                   <MenuCard 
                     title="Салат с помидорами и огурцами" 
                     description="Свежие овощи с заправкой на выбор"
-                    price="210 ₽"
+                    price="89,99 ₽"
                   />
                 </div>
               </div>
@@ -92,7 +92,7 @@ const Index = () => {
                   <MenuCard 
                     title="Коровка печенье" 
                     description="Традиционное печенье с молочным вкусом"
-                    price="140 ₽"
+                    price="39,99 ₽"
                   />
                 </div>
               </div>
